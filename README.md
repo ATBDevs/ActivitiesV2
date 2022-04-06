@@ -21,6 +21,6 @@ Application's bot user must be in the guild to create activity invite.
 
 ## Legal
 
-- Available under [MIT License DjDeveloperr](LICENSE DjDeveloperr) & [MIT License Advaith](LICENSE Advaith)
+- Available under [MIT License DjDeveloperr](https://github.com/MJGaming1532/ActivitiesV2/blob/main/LICENSE%20DjDeveloperr) & [MIT License Advaith](https://github.com/MJGaming1532/ActivitiesV2/blob/main/LICENSE%20Advaith)
 
 Copyright 2021 © DjDeveloperr & Advaith
