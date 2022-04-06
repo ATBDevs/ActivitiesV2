@@ -23,3 +23,4 @@ You can contact me on [Discord Servers](https://dsc.gg/atbdev)
 ### If you store data, how can users have that data removed?
 
 No data is stored.
+x
