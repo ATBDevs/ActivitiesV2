@@ -1,6 +1,11 @@
 # Discord Activities Bot V2
-A simple slash command bot for opening Discord voice channel activities. Made with [Harmony](https://github.com/harmonyland/harmony) and [Deno Deploy](https://deno.com/deploy).
-You Can Also Invite The Bot [Here](https://discord.com/api/oauth2/authorize?client_id=911590387859226645&permissions=1&scope=applications.commands%20bot).
+A simple slash command bot for opening Discord voice channel activities, Using [Harmony](https://github.com/harmonyland/harmony) and [Deno Deploy](https://deno.com/deploy).
+
+**[Add the bot](https://discord.com/api/oauth2/authorize?client_id=911590387859226645&permissions=1025&scope=applications.commands%20bot)**  
+
+After adding, use `/activity`
+
+Bot code is in [mod.ts](https://github.com/MJGaming1532/ActivitiesV2/blob/main/mod.ts)
 
 Originaly Made By [Advaith](https://github.com/advaith1/Activities) and [DjDeveloperr](https://github.com/DjDeveloperr/ActivitiesBot).
 
